@@ -6,13 +6,11 @@
 
 body{
     font-size: 1.6rem;
+    color: slateblue;
 }
 
-html{
-    font-size: 62.5%;
-}
-.articleTile{
-    width: 25%;
+#headerImg{
+    width: 100%;
 }
 .articleImage{
     width: 100%;
@@ -20,8 +18,16 @@ html{
 }
 #article__list{
     display: grid;
-    grid-column: auto, auto, auto;
+    grid-template-columns: auto auto auto;
 }
 .articleEl{
-    padding: 30px;
+    border-width: 1px;
+    border-color: darkslateblue;
+    background-color: lightgray;
+    border-style: dashed;
+}
+
+.articleComments{
+    padding: 10px;
+    display: inline-block;
 }

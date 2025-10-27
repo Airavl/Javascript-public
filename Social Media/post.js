@@ -8,6 +8,11 @@ function makePost(data){
     titleEl.innerText = data.title;
     articleElement.appendChild(titleEl);
 
+    let commentsEl = document.createElement("a");
+    commentsEl.className = "articleComments";
+    commentsEl.innerText= "Comments:" + data.comments;
+    articleElement.appendChild(commentsEl);
+
     let imageEl = document.createElement("img");
     imageEl.className = "articleImage";
     imageEl.src = "https://placehold.net/default.svg";

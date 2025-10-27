@@ -3,51 +3,61 @@
         {
         "title": "Fullmetal alchemist: Brotherhood",
         "tags": "2006, Shonen, Fantasy",
+        "comments" : "5",
         "text": "A tale of two brothers who after an experiment gone wrong attempt to get back their bodies"
         },
         {
         "title": "Attack on Titan",
         "tags": "2013, Shonen, Action",
+        "comments" : "6",
         "text": "Humanity fights for survival against giant humanoid creatures known as Titans."
         },
         {
         "title": "Death Note",
         "tags": "2006, Psychological, Thriller",
+        "comments" : "3",
         "text": "A high school student discovers a notebook that lets him kill anyone by writing their name."
         },
         {
         "title": "Naruto",
         "tags": "2002, Shonen, Adventure",
+        "comments" : "10",
         "text": "A young ninja strives to gain recognition and become the strongest leader of his village."
         },
         {
         "title": "Demon Slayer: Kimetsu no Yaiba",
         "tags": "2019, Shonen, Supernatural",
+        "comments" : "7",
         "text": "A boy joins the Demon Slayer Corps to avenge his family and cure his sister who became a demon."
         },
         {
         "title": "One Piece",
         "tags": "1999, Shonen, Adventure",
+        "comments" : "5",
         "text": "A pirate crew sails the Grand Line in search of the legendary treasure known as One Piece."
         },
         {
         "title": "Steins;Gate",
         "tags": "2011, Sci-Fi, Thriller",
+        "comments" : "2",
         "text": "A self-proclaimed mad scientist discovers time travel and faces the consequences of altering timelines."
         },
         {
         "title": "My Hero Academia",
         "tags": "2016, Shonen, Superhero",
+        "comments" : "10",
         "text": "In a world where superpowers are common, a powerless boy trains to become a top hero."
         },
         {
         "title": "Tokyo Ghoul",
         "tags": "2014, Horror, Supernatural",
+        "comments" : "13",
         "text": "A college student becomes a half-ghoul and struggles to survive in a world of monsters and humans."
         },
         {
         "title": "Hunter x Hunter",
         "tags": "2011, Shonen, Adventure",
+        "comments" : "7",
         "text": "A young boy trains to become a Hunter and search for his missing father while facing deadly trials."
     }
     ]
