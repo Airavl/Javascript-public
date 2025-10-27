@@ -1,0 +1,54 @@
+{
+    "posts":[
+        {
+        "title": "Fullmetal alchemist: Brotherhood",
+        "tags": "2006, Shonen, Fantasy",
+        "text": "A tale of two brothers who after an experiment gone wrong attempt to get back their bodies"
+        },
+        {
+        "title": "Attack on Titan",
+        "tags": "2013, Shonen, Action",
+        "text": "Humanity fights for survival against giant humanoid creatures known as Titans."
+        },
+        {
+        "title": "Death Note",
+        "tags": "2006, Psychological, Thriller",
+        "text": "A high school student discovers a notebook that lets him kill anyone by writing their name."
+        },
+        {
+        "title": "Naruto",
+        "tags": "2002, Shonen, Adventure",
+        "text": "A young ninja strives to gain recognition and become the strongest leader of his village."
+        },
+        {
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "tags": "2019, Shonen, Supernatural",
+        "text": "A boy joins the Demon Slayer Corps to avenge his family and cure his sister who became a demon."
+        },
+        {
+        "title": "One Piece",
+        "tags": "1999, Shonen, Adventure",
+        "text": "A pirate crew sails the Grand Line in search of the legendary treasure known as One Piece."
+        },
+        {
+        "title": "Steins;Gate",
+        "tags": "2011, Sci-Fi, Thriller",
+        "text": "A self-proclaimed mad scientist discovers time travel and faces the consequences of altering timelines."
+        },
+        {
+        "title": "My Hero Academia",
+        "tags": "2016, Shonen, Superhero",
+        "text": "In a world where superpowers are common, a powerless boy trains to become a top hero."
+        },
+        {
+        "title": "Tokyo Ghoul",
+        "tags": "2014, Horror, Supernatural",
+        "text": "A college student becomes a half-ghoul and struggles to survive in a world of monsters and humans."
+        },
+        {
+        "title": "Hunter x Hunter",
+        "tags": "2011, Shonen, Adventure",
+        "text": "A young boy trains to become a Hunter and search for his missing father while facing deadly trials."
+    }
+    ]
+}
