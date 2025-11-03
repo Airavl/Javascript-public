@@ -1,4 +1,4 @@
-import {makePost} from '/post.js';
+import {makePost} from './post.js';
 fetch('data.json')
 .then(response=>response.json())
 .then(data=>{
